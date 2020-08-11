@@ -1,7 +1,7 @@
 {
-    "name": "pxt-smarthon-wifi",
+    "name": "pxt-Azure",
     "version": "1.4.6",
-    "description": "This is the extension for SMARTHON WiFi in PXT",
+    "description": "This is the extension for Azure in PXT",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,7 @@
     "files": [
         "README.md",
         "ns.ts",
-        "wifi.ts"
+        "Azure.ts"
     ],
     "testFiles": [
         "tests.ts"

@@ -1,4 +1,4 @@
-namespace SmarthonWiFi {
+namespace Azure {
 
     // -------------- 1. Initialization ----------------
     //%blockId=Azure_initialize_wifi
