@@ -1,7 +1,7 @@
 {
-    "name": "pxt-data-logger",
+    "name": "pxt-smarthon-wifi",
     "version": "1.4.6",
-    "description": "This is the extension for SMARTHON Plant Kit WiFi in PXT",
+    "description": "This is the extension for SMARTHON WiFi in PXT",
     "license": "MIT",
     "dependencies": {
         "core": "*",
@@ -10,7 +10,7 @@
     "files": [
         "README.md",
         "ns.ts",
-        "sensors.ts"
+        "wifi.ts"
     ],
     "testFiles": [
         "tests.ts"
